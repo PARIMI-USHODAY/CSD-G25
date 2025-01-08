@@ -1,5 +1,5 @@
 
-#CSD-G25
+# CSD-G25
 # Online Interactive Entrepreneur Club
 
 An innovative virtual platform designed to foster collaboration, mentorship, and knowledge sharing among entrepreneurs. This project provides tools and resources for aspiring and established entrepreneurs to thrive, connect, and succeed in their ventures.
